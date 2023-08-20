@@ -51,8 +51,8 @@ Configure o microcontrolador para acessar a internet via Wi-Fi:
 import webrepl
 import network
 
-ssid = "deviceone"
-ssid_password = "aulaiot"
+ssid = "deviceXXX"
+ssid_password = "senhaesp"
 
 # O objetio 'station' ativa o Wi-Fi e realiza a conexão com uma rede Wi-Fi desejada
 # Ao final, apresenta o IP do microcontrolador
