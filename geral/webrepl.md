@@ -72,7 +72,11 @@ Anote o IP obtido, você pode usar a [IDE Thonny](https://youtu.be/nA7pf668__U) 
 
 ### Acesso ao Webrepl
 
-Você pode baixar a página com o webrepl em sua máquina em https://github.com/micropython/webrepl
+Você pode baixar a página com o webrepl em sua máquina em https://github.com/micropython/webrepl .
 
+A figura abaixo mostra um _print_ de uma execução da página do webrepl:
 ![print_webrelp](https://github.com/ect-info/IoT/assets/19957124/c4e79f9d-1287-4588-9b15-0bfe7b5da714)
 
+Para acessar o microcontrolador você vai digitar o IP:8266 na caixa de texto do lado esquerdo superior. Por exemplo, se o IP for "10.0.0.198", você digitará nesta caixa "ws://10.0.0.198:8266". A porta 8266 é uma porta padrão para a conexão com o webrepl.
+
+Observação: Esse roteiro foi construído com testes ralizados com o NodeMCU EPS32.
