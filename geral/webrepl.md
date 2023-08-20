@@ -73,3 +73,5 @@ Anote o IP obtido, você pode usar a [IDE Thonny](https://youtu.be/nA7pf668__U) 
 ### Acesso ao Webrepl
 
 Você pode baixar a página com o webrepl em sua máquina em https://github.com/micropython/webrepl
+
+<img src="../imagens/print_webrepl.png" alt="Página webrepl" style="width:600px"/>
