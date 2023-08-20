@@ -74,4 +74,5 @@ Anote o IP obtido, você pode usar a [IDE Thonny](https://youtu.be/nA7pf668__U) 
 
 Você pode baixar a página com o webrepl em sua máquina em https://github.com/micropython/webrepl
 
-<img src="../imagens/print_webrepl.png" alt="Página webrepl" style="width:600px"/>
+![print_webrelp](https://github.com/ect-info/IoT/assets/19957124/c4e79f9d-1287-4588-9b15-0bfe7b5da714)
+
