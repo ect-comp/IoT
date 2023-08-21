@@ -15,7 +15,13 @@ O Webrepl é um terminal na web para acessar um microcontrolador com Micropython
 
 #### Webrepl no Micropython.
 
-Importe o 'webrepl_setup'. Habilite a execução do webrepl durante o boot, digitanto 'E' para a seguinte pergunta:
+Importe o 'webrepl_setup'. No terminal Micropython da IDE, digite o seguinte comando:
+
+```python
+>>> import webrepl_setup
+```
+
+Habilite a execução do webrepl durante o boot, digitanto 'E' para a seguinte pergunta:
 
 ```
 WebREPL daemon auto-start status: disabled
