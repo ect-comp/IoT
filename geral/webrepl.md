@@ -86,3 +86,7 @@ A figura abaixo mostra um _print_ de uma execução da página do webrepl:
 Para acessar o microcontrolador você vai digitar o IP:8266 na caixa de texto do lado esquerdo superior. Por exemplo, se o IP for "10.0.0.198", você digitará nesta caixa "ws://10.0.0.198:8266". A porta 8266 é uma porta padrão para a conexão com o webrepl.
 
 Observação: Esse roteiro foi construído com testes ralizados com o NodeMCU EPS32.
+
+### Próximo Passo
+
+Fazer um teste para ligar e apagar um LED: [Olá Mundo em MicroPython!](https://github.com/Natalnet/ModulosDeEstudo/blob/master/IoT/hello_world_micropython.md).   
