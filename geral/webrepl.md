@@ -10,6 +10,7 @@ O Webrepl é um terminal na web para acessar um microcontrolador com Micropython
   - Sugestão: [usar a versão 18](https://micropython.org/resources/firmware/esp32-20220117-v1.18.bin)
 - Grave o firmware com a IDE de sua preferência
   - Sugestão: [Usar o Thonny](https://thonny.org/)
+  - Vídeo com uma demonstração: [link](https://www.youtube.com/watch?v=nA7pf668__U) 
 
 ### Microcontrolador
 
