@@ -14,7 +14,8 @@
 
 ## Códigos 
 
-* Mostrar trechos de códigos mais importantes e explicações.  
+* Mostrar trechos de códigos mais importantes e explicações.
+* Criar um repositório para o código (github) e indicar nesta seção. 
 
 ## Experimentos 
 
